@@ -142,7 +142,6 @@ strong {
   min-width: 320px;
   position: relative;
 }
-
 .animated-item {
   color: #ffc200;
 }
@@ -572,6 +571,10 @@ strong {
   .eduList ul {
     padding-left: 1em;
   }
+  .about-text p {
+    margin-top: 30px;
+  }
+
   .animated-info {
     min-width: 200px;
   }
@@ -608,7 +611,6 @@ strong {
   .about-text {
     text-align: center;
   }
-
   .full-screen {
     padding: 4rem 0;
   }
