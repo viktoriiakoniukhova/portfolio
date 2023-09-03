@@ -1,0 +1,325 @@
+[
+  {
+    "title": "Landmarket (MERN)",
+    "href": "https://64f4ea73e822fe477578c47b--lambent-heliotrope-0974b1.netlify.app/",
+    "imgURL": "./assets/img/landmarket.png",
+    "pngURLs": {
+      "large": "./assets/img/landmarket.png",
+      "medium": "./assets/img/landmarket-medium.png",
+      "small": "./assets/img/landmarket-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/landmarket.png",
+      "medium": "./assets/img/thumbs/landmarket-medium.png",
+      "small": "./assets/img/thumbs/landmarket-small.png"
+    },
+    "tech": ["React", "Nodemailer", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#EFD372", "#C2C2DD", "#026670"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Organick (MERN)",
+    "href": "https://gentle-creponne-7351f1.netlify.app/",
+    "imgURL": "./assets/img/organick.png",
+    "pngURLs": {
+      "large": "./assets/img/organick.png",
+      "medium": "./assets/img/organick-medium.png",
+      "small": "./assets/img/organick-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/organick.png",
+      "medium": "./assets/img/thumbs/organick-medium.png",
+      "small": "./assets/img/thumbs/organick-small.png"
+    },
+    "tech": ["React", "React-router", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#EFD372", "#82b896", "#274C5B"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Quizzical Game",
+    "href": "https://viktoriiakoniukhova.github.io/game-quizzical/",
+    "imgURL": "./assets/img/quiz.png",
+    "pngURLs": {
+      "large": "./assets/img/quiz.png",
+      "medium": "./assets/img/quiz-medium.png",
+      "small": "./assets/img/quiz-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/quiz.png",
+      "medium": "./assets/img/thumbs/quiz-medium.png",
+      "small": "./assets/img/thumbs/quiz-small.png"
+    },
+    "tech": ["react", "figma"],
+    "colors": ["#DEEBF8", "#293264", "#4D5B9E"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Search (SpaceNews API)",
+    "href": "https://viktoriiakoniukhova.github.io/space-news-search/",
+    "imgURL": "./assets/img/newsletter.png",
+    "pngURLs": {
+      "large": "./assets/img/newsletter.png",
+      "medium": "./assets/img/newsletter-medium.png",
+      "small": "./assets/img/newsletter-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/newsletter.png",
+      "medium": "./assets/img/thumbs/newsletter-medium.png",
+      "small": "./assets/img/thumbs/newsletter-small.png"
+    },
+    "tech": ["react", "TS", "SCSS", "Material UI"],
+    "colors": ["#8D8D8D", "#383A41", "#FFFF19"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "GPT-3 Landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-gpt-3/",
+    "imgURL": "./assets/img/gtp3.png",
+    "pngURLs": {
+      "large": "./assets/img/gtp3.png",
+      "medium": "./assets/img/gtp3-medium.png",
+      "small": "./assets/img/gtp3-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/gtp3.png",
+      "medium": "./assets/img/thumbs/gtp3-medium.png",
+      "small": "./assets/img/thumbs/gtp3-small.png"
+    },
+    "tech": ["react", "figma"],
+    "colors": ["#FF4820", "#031B34", "#031B34"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Pokemons",
+    "href": "https://viktoriiakoniukhova.github.io/pokemons/",
+    "imgURL": "./assets/img/pokemons.png",
+    "pngURLs": {
+      "large": "./assets/img/pokemons.png",
+      "medium": "./assets/img/pokemons-medium.png",
+      "small": "./assets/img/pokemons-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/pokemons.png",
+      "medium": "./assets/img/thumbs/pokemons-medium.png",
+      "small": "./assets/img/thumbs/pokemons-small.png"
+    },
+    "tech": ["react", "scss", "uuid"],
+    "colors": ["#DEEBF8", "#293264", "#4D5B9E"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "DECBASE landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-decbase",
+    "imgURL": "./assets/img/decbase.png",
+    "pngURLs": {
+      "large": "./assets/img/decbase.png",
+      "medium": "./assets/img/decbase-medium.png",
+      "small": "./assets/img/decbase-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/decbase.png",
+      "medium": "./assets/img/thumbs/decbase-medium.png",
+      "small": "./assets/img/thumbs/decbase-small.png"
+    },
+    "tech": ["Swiper JS", "SCSS", "API fetch"],
+    "colors": ["#37806b", "#caa892", "#ffffff"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "CoffeeShop Landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-bootstrap-cafe",
+    "imgURL": "./assets/img/coffee-bar.png",
+    "pngURLs": {
+      "large": "./assets/img/coffee-bar.png",
+      "medium": "./assets/img/coffee-bar-medium.png",
+      "small": "./assets/img/coffee-bar-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/coffee-bar.png",
+      "medium": "./assets/img/thumbs/coffee-bar-medium.png",
+      "small": "./assets/img/thumbs/coffee-bar-small.png"
+    },
+    "tech": ["bootstrap"],
+    "colors": ["#865E54", "#663829", "#FACFA2"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Jadoo Landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-jadoo-travel/",
+    "imgURL": "./assets/img/jadoo.png",
+    "pngURLs": {
+      "large": "./assets/img/jadoo.png",
+      "medium": "./assets/img/jadoo-medium.png",
+      "small": "./assets/img/jadoo-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/jadoo.png",
+      "medium": "./assets/img/thumbs/jadoo-medium.png",
+      "small": "./assets/img/thumbs/jadoo-small.png"
+    },
+    "tech": ["SCSS", "figma"],
+    "colors": ["#FFF1DA", "#E28168", "#181E4B"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Clinic Landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-medical",
+    "imgURL": "./assets/img/clinic.png",
+    "pngURLs": {
+      "large": "./assets/img/clinic.png",
+      "medium": "./assets/img/clinic-medium.png",
+      "small": "./assets/img/clinic-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/clinic.png",
+      "medium": "./assets/img/thumbs/clinic-medium.png",
+      "small": "./assets/img/thumbs/clinic-small.png"
+    },
+    "tech": ["flexbox"],
+    "colors": ["#0078AA", "#171717", "171717"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Pattern Landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-apples",
+    "imgURL": "./assets/img/apples.png",
+    "pngURLs": {
+      "large": "./assets/img/apples.png",
+      "medium": "./assets/img/apples-medium.png",
+      "small": "./assets/img/apples-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/apples.png",
+      "medium": "./assets/img/thumbs/apples-medium.png",
+      "small": "./assets/img/thumbs/apples-small.png"
+    },
+    "tech": ["flexbox"],
+    "colors": ["#243C0B", "#3D4B58", "#ffffff"],
+    "type": "regular",
+    "isShown": false
+  },
+  {
+    "title": "Photographer Landing",
+    "href": "https://viktoriiakoniukhova.github.io/landing-photographer",
+    "imgURL": "./assets/img/photographer.png",
+    "pngURLs": {
+      "large": "./assets/img/photographer.png",
+      "medium": "./assets/img/photographer-medium.png",
+      "small": "./assets/img/photographer-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/photographer.png",
+      "medium": "./assets/img/thumbs/photographer-medium.png",
+      "small": "./assets/img/thumbs/photographer-small.png"
+    },
+    "tech": ["flexbox", "grid"],
+    "colors": ["#1B2539", "#C49479", "#C49479"],
+    "type": "regular",
+    "isShown": false
+  },
+  {
+    "title": "Tenzies Game",
+    "href": "https://viktoriiakoniukhova.github.io/game-tenzies/",
+    "imgURL": "./assets/img/tenzies.png",
+    "pngURLs": {
+      "large": "./assets/img/tenzies.png",
+      "medium": "./assets/img/tenzies-medium.png",
+      "small": "./assets/img/tenzies-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/tenzies.png",
+      "medium": "./assets/img/thumbs/tenzies-medium.png",
+      "small": "./assets/img/thumbs/tenzies-small.png"
+    },
+    "tech": ["react", "webpack"],
+    "colors": ["#59E391", "#293264", "#4D5B9E"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Meme generator",
+    "href": "https://viktoriiakoniukhova.github.io/game-meme-generator/",
+    "imgURL": "./assets/img/meme.png",
+    "pngURLs": {
+      "large": "./assets/img/meme.png",
+      "medium": "./assets/img/meme-medium.png",
+      "small": "./assets/img/meme-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/meme.png",
+      "medium": "./assets/img/thumbs/meme-medium.png",
+      "small": "./assets/img/thumbs/meme-small.png"
+    },
+    "tech": ["react", "webpack"],
+    "colors": ["#FED36E", "#293264", "#961BC1"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Finance Tracker",
+    "href": "https://crm-system-vue3-20361.web.app/login",
+    "imgURL": "./assets/img/crm-system.png",
+    "pngURLs": {
+      "large": "./assets/img/crm-system.png",
+      "medium": "",
+      "small": ""
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/crm-system.png",
+      "medium": "",
+      "small": ""
+    },
+    "tech": ["vue 3", "materialize"],
+    "colors": ["#26A69A", "#FFA726", "#ffffff"],
+    "type": "desktop-only",
+    "isShown": true
+  },
+  {
+    "title": "RPC Game",
+    "href": "https://viktoriiakoniukhova.github.io/game-rockpaperscissors",
+    "imgURL": "./assets/img/rock-paper-scissors.png",
+    "pngURLs": {
+      "large": "./assets/img/rock-paper-scissors.png",
+      "medium": "./assets/img/rock-paper-scissors-medium.png",
+      "small": "./assets/img/rock-paper-scissors-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/rock-paper-scissors.png",
+      "medium": "./assets/img/thumbs/rock-paper-scissors-medium.png",
+      "small": "./assets/img/thumbs/rock-paper-scissors-small.png"
+    },
+    "tech": ["JS"],
+    "colors": ["#000000", "#F55536", "#B5FFE9"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Capital Cards Game",
+    "href": "https://viktoriiakoniukhova.github.io/game-flashcards/",
+    "imgURL": "./assets/img/capitals.png",
+    "pngURLs": {
+      "large": "./assets/img/capitals.png",
+      "medium": "./assets/img/capitals-medium.png",
+      "small": "./assets/img/capitals-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/capitals.png",
+      "medium": "./assets/img/thumbs/capitals-medium.png",
+      "small": "./assets/img/thumbs/capitals-small.png"
+    },
+    "tech": ["SCSS"],
+    "colors": ["#F4A460", "#434D54", "#434D54"],
+    "type": "regular",
+    "isShown": true
+  }
+]
