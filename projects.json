@@ -1,24 +1,5 @@
 [
   {
-    "title": "Landmarket (MERN)",
-    "href": "https://64f4ea73e822fe477578c47b--lambent-heliotrope-0974b1.netlify.app/",
-    "imgURL": "./assets/img/landmarket.png",
-    "pngURLs": {
-      "large": "./assets/img/landmarket.png",
-      "medium": "./assets/img/landmarket-medium.png",
-      "small": "./assets/img/landmarket-small.png"
-    },
-    "pngThumbURLs": {
-      "large": "./assets/img/thumbs/landmarket.png",
-      "medium": "./assets/img/thumbs/landmarket-medium.png",
-      "small": "./assets/img/thumbs/landmarket-small.png"
-    },
-    "tech": ["React", "Nodemailer", "Express", "Mongo DB", "Node JS"],
-    "colors": ["#EFD372", "#C2C2DD", "#026670"],
-    "type": "regular",
-    "isShown": true
-  },
-  {
     "title": "Organick (MERN)",
     "href": "https://imaginative-trifle-7fb0f9.netlify.app/",
     "imgURL": "./assets/img/organick.png",
@@ -91,6 +72,44 @@
     },
     "tech": ["react", "TS", "SCSS", "Material UI"],
     "colors": ["#8D8D8D", "#383A41", "#FFFF19"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Finance Tracker",
+    "href": "https://crm-system-vue3-20361.web.app/login",
+    "imgURL": "./assets/img/crm-system.png",
+    "pngURLs": {
+      "large": "./assets/img/crm-system.png",
+      "medium": "",
+      "small": ""
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/crm-system.png",
+      "medium": "",
+      "small": ""
+    },
+    "tech": ["vue 3", "materialize"],
+    "colors": ["#26A69A", "#FFA726", "#ffffff"],
+    "type": "desktop-only",
+    "isShown": true
+  },
+  {
+    "title": "Landmarket (MERN)",
+    "href": "https://64f4ea73e822fe477578c47b--lambent-heliotrope-0974b1.netlify.app/",
+    "imgURL": "./assets/img/landmarket.png",
+    "pngURLs": {
+      "large": "./assets/img/landmarket.png",
+      "medium": "./assets/img/landmarket-medium.png",
+      "small": "./assets/img/landmarket-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/landmarket.png",
+      "medium": "./assets/img/thumbs/landmarket-medium.png",
+      "small": "./assets/img/thumbs/landmarket-small.png"
+    },
+    "tech": ["React", "Nodemailer", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#EFD372", "#C2C2DD", "#026670"],
     "type": "regular",
     "isShown": true
   },
@@ -284,25 +303,7 @@
     "type": "regular",
     "isShown": true
   },
-  {
-    "title": "Finance Tracker",
-    "href": "https://crm-system-vue3-20361.web.app/login",
-    "imgURL": "./assets/img/crm-system.png",
-    "pngURLs": {
-      "large": "./assets/img/crm-system.png",
-      "medium": "",
-      "small": ""
-    },
-    "pngThumbURLs": {
-      "large": "./assets/img/thumbs/crm-system.png",
-      "medium": "",
-      "small": ""
-    },
-    "tech": ["vue 3", "materialize"],
-    "colors": ["#26A69A", "#FFA726", "#ffffff"],
-    "type": "desktop-only",
-    "isShown": true
-  },
+
   {
     "title": "RPC Game",
     "href": "https://viktoriiakoniukhova.github.io/game-rockpaperscissors",
