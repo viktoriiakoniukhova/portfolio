@@ -38,6 +38,25 @@
     "isShown": true
   },
   {
+    "title": "Tester (MERN)",
+    "href": "https://mern-tester-front.vercel.app/",
+    "imgURL": "./assets/img/tester.png",
+    "pngURLs": {
+      "large": "./assets/img/tester.png",
+      "medium": "./assets/img/tester-medium.png",
+      "small": "./assets/img/tester-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/tester.png",
+      "medium": "./assets/img/thumbs/tester-medium.png",
+      "small": "./assets/img/thumbs/tester-small.png"
+    },
+    "tech": ["React", "React-Bootstrap", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#0A58CA", "#171717", "#FFFFFF"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
     "title": "Quizzical Game",
     "href": "https://viktoriiakoniukhova.github.io/game-quizzical/",
     "imgURL": "./assets/img/quiz.png",
@@ -206,7 +225,7 @@
     "tech": ["flexbox"],
     "colors": ["#243C0B", "#3D4B58", "#ffffff"],
     "type": "regular",
-    "isShown": false
+    "isShown": true
   },
   {
     "title": "Photographer Landing",
@@ -225,7 +244,7 @@
     "tech": ["flexbox", "grid"],
     "colors": ["#1B2539", "#C49479", "#C49479"],
     "type": "regular",
-    "isShown": false
+    "isShown": true
   },
   {
     "title": "Tenzies Game",
