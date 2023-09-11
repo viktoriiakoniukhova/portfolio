@@ -1,5 +1,24 @@
 [
   {
+    "title": "Landmarket (MERN)",
+    "href": "https://lambent-heliotrope-0974b1.netlify.app/",
+    "imgURL": "./assets/img/landmarket.png",
+    "pngURLs": {
+      "large": "./assets/img/landmarket.png",
+      "medium": "./assets/img/landmarket-medium.png",
+      "small": "./assets/img/landmarket-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/landmarket.png",
+      "medium": "./assets/img/thumbs/landmarket-medium.png",
+      "small": "./assets/img/thumbs/landmarket-small.png"
+    },
+    "tech": ["React", "Nodemailer", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#EFD372", "#C2C2DD", "#026670"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
     "title": "Organick (MERN)",
     "href": "https://imaginative-trifle-7fb0f9.netlify.app/",
     "imgURL": "./assets/img/organick.png",
@@ -94,25 +113,7 @@
     "type": "desktop-only",
     "isShown": true
   },
-  {
-    "title": "Landmarket (MERN)",
-    "href": "https://lambent-heliotrope-0974b1.netlify.app/",
-    "imgURL": "./assets/img/landmarket.png",
-    "pngURLs": {
-      "large": "./assets/img/landmarket.png",
-      "medium": "./assets/img/landmarket-medium.png",
-      "small": "./assets/img/landmarket-small.png"
-    },
-    "pngThumbURLs": {
-      "large": "./assets/img/thumbs/landmarket.png",
-      "medium": "./assets/img/thumbs/landmarket-medium.png",
-      "small": "./assets/img/thumbs/landmarket-small.png"
-    },
-    "tech": ["React", "Nodemailer", "Express", "Mongo DB", "Node JS"],
-    "colors": ["#EFD372", "#C2C2DD", "#026670"],
-    "type": "regular",
-    "isShown": true
-  },
+
   {
     "title": "GPT-3 Landing",
     "href": "https://viktoriiakoniukhova.github.io/landing-gpt-3/",
