@@ -108,7 +108,7 @@ const allLinks = document.querySelectorAll("a");
 
 allLinks.forEach((link) =>
   link.addEventListener("click", (ev) => {
-    // ev.preventDefault();
+    preventDefault();
     window.open(ev.target.href, "_blank");
   })
 );
