@@ -19,6 +19,25 @@
     "isShown": true
   },
   {
+    "title": "Real Estate",
+    "href": "https://zenbittech-test-task.vercel.app/",
+    "imgURL": "./assets/img/zenbittech.png",
+    "pngURLs": {
+      "large": "./assets/img/zenbittech.png",
+      "medium": "./assets/img/zenbittech-medium.png",
+      "small": "./assets/img/zenbittech-small.png"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/thumbs/zenbittech.png",
+      "medium": "./assets/img/thumbs/zenbittech-medium.png",
+      "small": "./assets/img/thumbs/zenbittech-small.png"
+    },
+    "tech": ["React", "Redux", "Node", "Express", "Postgres"],
+    "colors": ["#B29E7F", "#172234", "#FFF"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
     "title": "Organick (MERN)",
     "href": "https://imaginative-trifle-7fb0f9.netlify.app/",
     "imgURL": "./assets/img/organick.png",
